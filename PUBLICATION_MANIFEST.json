@@ -1,0 +1,47 @@
+{
+  "date": "2026-10-07",
+  "title": "Airline tweet sentiment coursework",
+  "completion_gate_passed": true,
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "5d88202b853217c723bde4ea54206901e0bb7f1e0e782347d799332a294adc6f",
+      "bytes": 421
+    },
+    {
+      "path": "Assignment no 4.docx.md",
+      "sha256": "82ae6209afe80314969f4ed000d2616c7ee0d5f0e12b2eaea32f9a9a8dd59a8f",
+      "bytes": 1524
+    },
+    {
+      "path": "assignment no 4.ipynb",
+      "sha256": "3c906a4c1899cc6c034652e43b628e89c9e87f6179e407a9695545f4e8dd3437",
+      "bytes": 1826
+    },
+    {
+      "path": "experiment.py",
+      "sha256": "7674dbbf63886aea42c36776dda0f386706018e2d3183970713cbc17c56eb859",
+      "bytes": 4555
+    },
+    {
+      "path": "metrics.json",
+      "sha256": "e3587ac4b9ff8583087a0094147bf85c010b56181ec7d0a0613e45cf4d757cdf",
+      "bytes": 4428
+    },
+    {
+      "path": "README.md",
+      "sha256": "44d84c1093319882b6a4e488baee525f84106d94c3dd2babc9f0c90ed05b61af",
+      "bytes": 557
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "6f8dca0f62c1f24f3ab80467c385f53470f5eda0853257bbeffc4a42140d3b6c",
+      "bytes": 74
+    },
+    {
+      "path": "VERIFICATION.json",
+      "sha256": "02dba2f3b2187c215c7835e7dc08c547ab90052bf0794e1269d74a7d098d0802",
+      "bytes": 750
+    }
+  ]
+}
